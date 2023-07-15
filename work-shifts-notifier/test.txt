@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+  </title>
+  <meta content="Login" name="description"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no, minimal-ui" name="viewport"/>
+  <meta content="yes" name="apple-mobile-web-app-capable"/>
+  <meta content="no" name="msapplication-tap-highlight"/>
+  <link href="/(S(v2d2ycahhdish0jwuez0swj1))/css/vendors.bundle.css" media="screen, print" rel="stylesheet"/>
+  <link href="/(S(v2d2ycahhdish0jwuez0swj1))/css/app.bundle.css" media="screen, print" rel="stylesheet"/>
+  <link href="/(S(v2d2ycahhdish0jwuez0swj1))/img/favicon/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="/(S(v2d2ycahhdish0jwuez0swj1))/img/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="/(S(v2d2ycahhdish0jwuez0swj1))/css/themes/cust-theme-3.css" id="mytheme" rel="stylesheet"/>
+  <link href="/(S(v2d2ycahhdish0jwuez0swj1))/css/fa-brands.css" media="screen, print" rel="stylesheet"/>
+ </head>
+ <body>
+  <!-- BEGIN Color profile -->
+  <p class="d-none" id="js-color-profile">
+   <span class="color-primary-50">
+   </span>
+   <span class="color-primary-100">
+   </span>
+   <span class="color-primary-200">
+   </span>
+   <span class="color-primary-300">
+   </span>
+   <span class="color-primary-400">
+   </span>
+   <span class="color-primary-500">
+   </span>
+   <span class="color-primary-600">
+   </span>
+   <span class="color-primary-700">
+   </span>
+   <span class="color-primary-800">
+   </span>
+   <span class="color-primary-900">
+   </span>
+   <span class="color-info-50">
+   </span>
+   <span class="color-info-100">
+   </span>
+   <span class="color-info-200">
+   </span>
+   <span class="color-info-300">
+   </span>
+   <span class="color-info-400">
+   </span>
+   <span class="color-info-500">
+   </span>
+   <span class="color-info-600">
+   </span>
+   <span class="color-info-700">
+   </span>
+   <span class="color-info-800">
+   </span>
+   <span class="color-info-900">
+   </span>
+   <span class="color-danger-50">
+   </span>
+   <span class="color-danger-100">
+   </span>
+   <span class="color-danger-200">
+   </span>
+   <span class="color-danger-300">
+   </span>
+   <span class="color-danger-400">
+   </span>
+   <span class="color-danger-500">
+   </span>
+   <span class="color-danger-600">
+   </span>
+   <span class="color-danger-700">
+   </span>
+   <span class="color-danger-800">
+   </span>
+   <span class="color-danger-900">
+   </span>
+   <span class="color-warning-50">
+   </span>
+   <span class="color-warning-100">
+   </span>
+   <span class="color-warning-200">
+   </span>
+   <span class="color-warning-300">
+   </span>
+   <span class="color-warning-400">
+   </span>
+   <span class="color-warning-500">
+   </span>
+   <span class="color-warning-600">
+   </span>
+   <span class="color-warning-700">
+   </span>
+   <span class="color-warning-800">
+   </span>
+   <span class="color-warning-900">
+   </span>
+   <span class="color-success-50">
+   </span>
+   <span class="color-success-100">
+   </span>
+   <span class="color-success-200">
+   </span>
+   <span class="color-success-300">
+   </span>
+   <span class="color-success-400">
+   </span>
+   <span class="color-success-500">
+   </span>
+   <span class="color-success-600">
+   </span>
+   <span class="color-success-700">
+   </span>
+   <span class="color-success-800">
+   </span>
+   <span class="color-success-900">
+   </span>
+   <span class="color-fusion-50">
+   </span>
+   <span class="color-fusion-100">
+   </span>
+   <span class="color-fusion-200">
+   </span>
+   <span class="color-fusion-300">
+   </span>
+   <span class="color-fusion-400">
+   </span>
+   <span class="color-fusion-500">
+   </span>
+   <span class="color-fusion-600">
+   </span>
+   <span class="color-fusion-700">
+   </span>
+   <span class="color-fusion-800">
+   </span>
+   <span class="color-fusion-900">
+   </span>
+  </p>
+  <!-- END Color profile -->
+  <form action="./default.aspx" autocomplete="off" id="form1" method="post">
+   <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwULLTE4Nzc0NTU4MjYPFgYeB1RtcFVzZXJlHghUbXBQYXNzd2UeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCZg9kFgICAw9kFgICAg9kFgQCAg9kFgRmDw9kFgYeCHJlcXVpcmVkZR4MYXV0b2NvbXBsZXRlBQNvZmYeC3BsYWNlaG9sZGVyBRFJbCB0dW8gSUQgbyBlbWFpbGQCAQ8PZBYGHwNlHwQFA29mZh8FBQhwYXNzd29yZGQCAw9kFgJmDw8WAh4EVGV4dGUWBh8DZR8EBQNvZmYfBQUSY29kaWNlIGRpIHNpY3VlenphZGTK+3qw11Gi6CScK6NOVS6iQK4SS7OozurOtjt3NLcvJw=="/>
+   <script src="/ScriptResource.axd?d=XRM-MnAq_JfXwJHPJJoy-QoKz8o0CQX6y4QPN9PD6UnvVTg9BarV-2E8-fLZOiBoF3kcFKJbU-3PLyD8T1jAHmMvcZSdYMyNvXH8dHDgqlgpoQ810t_dkgtYOeVIvdZF7WvI490f2GtXMXP5bUFuuLthgRRwtlcmylg5nDWxqXuMVDvPaLrglP5ljVSUtpgj0&amp;t=ffffffffaa493ab8" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    //<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('Impossibile caricare il framework lato client di ASP.NET Ajax.');
+//]]>
+   </script>
+   <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="8E1C9DE9"/>
+   <input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="/wEdAAQAqSdRc/U5vBP2quKLKV0RZBEo8HM2nB4XhHipwSSP/DDvqGDyhaPyGPguw97IXFzJJDoajI9BQdoMXKl7m0ePkjy2bD1UrGWKqWpbA9oUFwZkWfbhbSWnbbMI0k4ml5g="/>
+   <script src="/(S(v2d2ycahhdish0jwuez0swj1))/js/vendors.bundle.min.js">
+   </script>
+   <script src="/(S(v2d2ycahhdish0jwuez0swj1))/js_pers/wtx.bundle.js">
+   </script>
+   <script src="/(S(v2d2ycahhdish0jwuez0swj1))/js/app.bundle.js">
+   </script>
+   <main id="js-page-content" role="main">
+    <div class="page-wrapper">
+     <div class="page-inner bg-brand-gradient">
+      <div class="page-content-wrapper bg-transparent m-0">
+       <div class="height-10 w-100 shadow-lg px-4 bg-brand-gradient">
+        <div class="d-flex align-items-center container p-0">
+         <div class="page-logo width-mobile-auto m-0 align-items-center justify-content-center p-0 bg-transparent bg-img-none shadow-0 height-9">
+          <a class="page-logo-link press-scale-down d-flex align-items-center" href="/(S(v2d2ycahhdish0jwuez0swj1))/entrance">
+           <img alt="SmartAdmin WebApp" class="d-none" src="/(S(v2d2ycahhdish0jwuez0swj1))/img/logo.png"/>
+           <span class="page-logo-text mr-1">
+            PORTALE
+            <b>
+             APACHE HR
+            </b>
+           </span>
+          </a>
+         </div>
+         <a class="btn-link text-white ml-auto" href="/entrance/register.aspx" id="createaccount">
+          Crea Profilo
+         </a>
+         <a class="btn-link text-white ml-auto" href="/entrance" id="loginaccount">
+          Accesso sicuro
+         </a>
+        </div>
+       </div>
+       <div class="flex-1" style="background: url('/(S(v2d2ycahhdish0jwuez0swj1))/img/svg/pattern-1.svg') no-repeat center bottom fixed; background-size: cover;">
+        <div class="container py-4 py-lg-5 my-lg-5 px-4 px-sm-0">
+         <div class="row">
+          <div class="col col-md-6 col-lg-7 hidden-sm-down">
+           <h2 class="fs-xxl fw-500 mt-4 text-white">
+            Il Portale self a tua disposizione
+            <small class="h3 fw-300 mt-3 mb-5 text-white opacity-60">
+             Per poter accedere, è necessario prima attivare il tuo account personale: premi il pulsante “crea profilo” e segui la procedura guidata. In caso di problemi con l'accesso, o per informazioni, invia una mail all'indirizzo support@worketix.com.
+            </small>
+           </h2>
+          </div>
+          <div class="col-sm-12 col-md-6 col-lg-5 col-xl-4 ml-auto">
+           <h1 class="text-white fw-300 mb-3 d-sm-block">
+            Accesso al Portale
+           </h1>
+           <div class="card p-4 rounded-plus bg-faded">
+            <div class="form-group mt-3">
+             <label class="form-label" for="ctl00_ContentPlaceHolder1_username">
+              EMail
+             </label>
+             <input autocomplete="off" class="form-control form-control-lg" id="ctl00_ContentPlaceHolder1_username" name="ctl00$ContentPlaceHolder1$username" placeholder="Il tuo ID o email" required="" type="text"/>
+             <div class="invalid-feedback">
+              No, questo è un campo obbligatorio.
+             </div>
+             <div class="help-block">
+              Il tuo utente di accesso
+             </div>
+            </div>
+            <div class="form-group">
+             <label class="form-label" for="ctl00_ContentPlaceHolder1_password">
+              Password
+             </label>
+             <input autocomplete="off" class="form-control form-control-lg" id="ctl00_ContentPlaceHolder1_password" name="ctl00$ContentPlaceHolder1$password" placeholder="password" required="" type="password"/>
+             <div class="invalid-feedback">
+              Spiacenti, hai dimenticato questo campo.
+             </div>
+             <div class="help-block">
+              La tua password
+             </div>
+            </div>
+            <div id="retmessage">
+            </div>
+            <div class="row no-gutters">
+             <div class="col-lg-12 pl-lg-1 my-2">
+              <a class="btn btn-danger btn-block btn-lg login-btn" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$js_login_btn','')" id="ContentPlaceHolder1_js_login_btn">
+               Accesso sicuro
+              </a>
+             </div>
+            </div>
+            <div class="form-group text-center">
+             <a class="fs-lg fw-500 opacity-70" href="/entrance/recover.aspx">
+              Recupera password
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="position-absolute pos-bottom pos-left pos-right p-3 text-center text-white">
+          2020 Portale Apache
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </main>
+  </form>
+  <script type="text/javascript">
+   $(document).ready(function () {
+                    setTimeout(
+                        function () {
+                             
+                        }, 200); 
+                });
+
+                $(".login-btn").click(function (event) {
+                    // Fetch form to apply custom Bootstrap validation
+                    var form = $("#form1")
+                    if (form[0].checkValidity() === false) {
+                        event.preventDefault()
+                        event.stopPropagation()
+                    }
+                    form.addClass('was-validated');
+                    // Perform ajax submit here...
+                });
+  </script>
+ </body>
+</html>
